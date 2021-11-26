@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="es">
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+		<!-- Favicons -->
+		<link rel="apple-touch-icon" sizes="180x180" href="assets/img/apple-touch-icon.png" />
+		<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32x32.png" />
+		<link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon-16x16.png" />
+
+		<title>404 Error!</title>
+
+		<meta name="robots" content="noindex, nofollow" />
+
+		<style>
+			::-moz-selection {background: #b3d4fc; text-shadow: none;}
+			::selection {background: #b3d4fc; text-shadow: none;}
+			html {padding: 30px 10px; font-size: 16px; line-height: 1.4; color: #737373; background: #f0f0f0;
+			-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;}
+			html,
+			input {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;}
+			body {max-width:700px; _width: 700px; padding: 30px 20px 50px; border: 1px solid #b3b3b3;
+			border-radius: 4px;margin: 0 auto; box-shadow: 0 1px 10px #a7a7a7, inset 0 1px 0 #fff;
+			background: #fcfcfc;}
+			h1 {margin: 0 10px; font-size: 50px; text-align: center;}
+			h1 span {color: #bbb;}
+			h2 {color: #D35780;margin: 0 10px;font-size: 40px;text-align: center;}
+			h2 span {color: #bbb;font-size: 80px;}
+			h3 {margin: 1.5em 0 0.5em;}
+			p {margin: 1em 0;}
+			ul {padding: 0 0 0 40px;margin: 1em 0;}
+			.container {max-width: 380px;_width: 480px;margin: 0 auto;}
+			input::-moz-focus-inner {padding: 0;border: 0;}
+		</style>
+	</head>
+	<body>
+
+		<div class="container">
+			<img src="assets/img/404.png" alt="404" title="404" style="width: 100%;">
+			<h2><span>404</span><br>¡Vaya! Algo salió mal.</h2>
+			<p style="text-align: center;">Parece que esta página no existe.</p>
+			<a href="https://lulustub.mx/" style="text-align: center; display: block;">Ir a página de inicio</a>
+		</div>
+
+	</body>
+</html>

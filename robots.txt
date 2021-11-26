@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Disallow: /404.shtml
+
+Disallow: /assets/css/
+Disallow: /assets/img/
+Disallow: /assets/js/
+Disallow: /assets/webfonts/
+
+Disallow: /aviso-de-privacidad/
+Disallow: /politica-de-cookies/
+Disallow: /cgi-bin/
+Disallow: /intranet/
+Disallow: /terminos-y-condiciones/
+
+
+Sitemap: https://lulustub.mx/sitemap.xml
